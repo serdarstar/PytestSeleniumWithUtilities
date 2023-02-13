@@ -1,0 +1,84 @@
+1618409082296	geckodriver	INFO	Listening on 127.0.0.1:51001
+1618409085315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\way2automation\\AppData\\Local\\Temp\\rust_mozprofilefjxzkO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618409092870	Marionette	INFO	Listening on port 51009
+1618409093402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618409093443	Marionette	ERROR	[15] No reply from Marionette:Register
+1618409096959	Marionette	INFO	Stopped listening on port 51009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618409100110	geckodriver	INFO	Listening on 127.0.0.1:51048
+1618409103127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\way2automation\\AppData\\Local\\Temp\\rust_mozprofileJLzL5a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618409110091	Marionette	INFO	Listening on port 51056
+1618409110640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618409110672	Marionette	ERROR	[15] No reply from Marionette:Register
+1618409113402	Marionette	INFO	Stopped listening on port 51056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618409115414	geckodriver	INFO	Listening on 127.0.0.1:51103
+1618409118456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\way2automation\\AppData\\Local\\Temp\\rust_mozprofile6FKxfT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618409125722	Marionette	INFO	Listening on port 51111
+1618409125988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618409126026	Marionette	ERROR	[15] No reply from Marionette:Register
+1618409129462	Marionette	INFO	Stopped listening on port 51111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1676281090755	geckodriver	INFO	Listening on 127.0.0.1:49750
+1676281093780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SERDAR~1.YIL\\AppData\\Local\\Temp\\rust_mozprofileSN6ei8"
+1676281094979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serdar.yildiz\\AppData\\Local\\Temp\\rust_mozprofileSN6ei8\\search.json.mozlz4", (void 0)))
+1676281098855	Marionette	INFO	Listening on port 49786
+Read port: 49786
+1676281098966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yR/l/en_GB/VUM-Q7pMDfO.js?_nc_x=Ij3Wp8lg5Kz, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1676281101558	Marionette	INFO	Stopped listening on port 49786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1676281103510	geckodriver	INFO	Listening on 127.0.0.1:49829
+1676281106517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SERDAR~1.YIL\\AppData\\Local\\Temp\\rust_mozprofilesCCxa7"
+1676281107311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serdar.yildiz\\AppData\\Local\\Temp\\rust_mozprofilesCCxa7\\search.json.mozlz4", (void 0)))
+1676281110623	Marionette	INFO	Listening on port 49866
+Read port: 49866
+1676281110761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yR/l/en_GB/VUM-Q7pMDfO.js?_nc_x=Ij3Wp8lg5Kz, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676281112803	Marionette	INFO	Stopped listening on port 49866
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\serdar.yildiz\AppData\Local\Temp\rust_mozprofilesCCxa7\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1676281114821	geckodriver	INFO	Listening on 127.0.0.1:49886
+1676281117822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SERDAR~1.YIL\\AppData\\Local\\Temp\\rust_mozprofilettEGVS"
+1676281118669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serdar.yildiz\\AppData\\Local\\Temp\\rust_mozprofilettEGVS\\search.json.mozlz4", (void 0)))
+1676281122024	Marionette	INFO	Listening on port 49925
+Read port: 49925
+1676281122082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yR/l/en_GB/VUM-Q7pMDfO.js?_nc_x=Ij3Wp8lg5Kz, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676281124263	Marionette	INFO	Stopped listening on port 49925
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

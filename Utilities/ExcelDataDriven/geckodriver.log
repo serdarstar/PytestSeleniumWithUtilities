@@ -1,0 +1,41 @@
+1676300932794	geckodriver	INFO	Listening on 127.0.0.1:61888
+1676300935822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SERDAR~1.YIL\\AppData\\Local\\Temp\\rust_mozprofileWzfApH"
+1676300936418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serdar.yildiz\\AppData\\Local\\Temp\\rust_mozprofileWzfApH\\search.json.mozlz4", (void 0)))
+1676300938609	Marionette	INFO	Listening on port 61921
+Read port: 61921
+1676300938722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yR/l/en_GB/VUM-Q7pMDfO.js?_nc_x=Ij3Wp8lg5Kz, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1676300940584	Marionette	INFO	Stopped listening on port 61921
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1676300942528	geckodriver	INFO	Listening on 127.0.0.1:61947
+1676300945546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SERDAR~1.YIL\\AppData\\Local\\Temp\\rust_mozprofileGgRS0N"
+1676300946098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serdar.yildiz\\AppData\\Local\\Temp\\rust_mozprofileGgRS0N\\search.json.mozlz4", (void 0)))
+1676300948776	Marionette	INFO	Listening on port 61986
+Read port: 61986
+1676300948829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yR/l/en_GB/VUM-Q7pMDfO.js?_nc_x=Ij3Wp8lg5Kz, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676300950312	Marionette	INFO	Stopped listening on port 61986
+1676300951773	geckodriver	INFO	Listening on 127.0.0.1:62013
+1676300954796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SERDAR~1.YIL\\AppData\\Local\\Temp\\rust_mozprofile6QmsBx"
+1676300955325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serdar.yildiz\\AppData\\Local\\Temp\\rust_mozprofile6QmsBx\\search.json.mozlz4", (void 0)))
+1676300957820	Marionette	INFO	Listening on port 62045
+Read port: 62045
+1676300957935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yR/l/en_GB/VUM-Q7pMDfO.js?_nc_x=Ij3Wp8lg5Kz, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676300959574	Marionette	INFO	Stopped listening on port 62045
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\serdar.yildiz\AppData\Local\Temp\rust_mozprofile6QmsBx\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
